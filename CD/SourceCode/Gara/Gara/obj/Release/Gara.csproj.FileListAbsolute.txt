@@ -1,0 +1,58 @@
+D:\New folder (2)\Gara\Gara\bin\Release\Gara.exe.config
+D:\New folder (2)\Gara\Gara\bin\Release\fXeInf.resx
+D:\New folder (2)\Gara\Gara\bin\Release\fXeInf.cs
+D:\New folder (2)\Gara\Gara\bin\Release\fXeInf.Designer.cs
+D:\New folder (2)\Gara\Gara\bin\Release\Gara.exe
+D:\New folder (2)\Gara\Gara\bin\Release\Gara.pdb
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.f1.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.f2.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.f3.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fDoiMK.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fHieuXe.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fLogin.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fMain.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fNV.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.FrmTienCong.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.frmNhapVTPT.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fThemVTPT.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fTK.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fTK_1.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.Max.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.PhieuThuTien.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.Properties.Resources.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fXeInf.resources
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.csproj.GenerateResource.Cache
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.exe
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.pdb
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Gara\Gara\obj\Release\Gara.fCapNhatVTPT.resources
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\Gara.exe.config
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.exe
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.pdb
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.csprojResolveAssemblyReference.cache
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.f1.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.f2.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.f3.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fCapNhatVTPT.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fDoiMK.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fHieuXe.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fLogin.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fMain.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fNV.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.FrmTienCong.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.frmBCDS.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.frmBC_VTPT.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.frmNhapVTPT.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fThemVTPT.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fTK.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fTK_1.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.Max.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.PhieuThuTien.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.Properties.Resources.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.fXeInf.resources
+C:\Users\Tao\Desktop\Gara\Gara\obj\Release\Gara.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\fXeInf.resx
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\fXeInf.cs
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\fXeInf.Designer.cs
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\Gara.exe
+C:\Users\Tao\Desktop\Gara\Gara\bin\Release\Gara.pdb

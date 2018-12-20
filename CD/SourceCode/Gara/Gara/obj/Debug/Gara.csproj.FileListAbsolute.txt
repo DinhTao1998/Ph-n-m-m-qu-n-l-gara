@@ -1,0 +1,58 @@
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\Gara.exe.config
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\Gara.exe
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\Gara.pdb
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.csprojResolveAssemblyReference.cache
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.Properties.Resources.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.csproj.GenerateResource.cache
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.csproj.CoreCompileInputs.cache
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.exe
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.pdb
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.f1.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fLogin.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fMain.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.f3.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fXeInf.resources
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\fXeInf.resx
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\fXeInf.cs
+D:\HocKy_IV\Gara\Gara\Gara\bin\Debug\fXeInf.Designer.cs
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.Max.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fTK.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fTK_1.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fDoiMK.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fNV.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fThemVTPT.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.fHieuXe.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.f2.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.FrmTienCong.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.frmNhapVTPT.resources
+D:\HocKy_IV\Gara\Gara\Gara\obj\Debug\Gara.PhieuThuTien.resources
+D:\New folder (2)\Gara\Gara\bin\Debug\Gara.exe.config
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.exe
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.pdb
+D:\New folder (2)\Gara\Gara\bin\Debug\fXeInf.resx
+D:\New folder (2)\Gara\Gara\bin\Debug\fXeInf.cs
+D:\New folder (2)\Gara\Gara\bin\Debug\fXeInf.Designer.cs
+D:\New folder (2)\Gara\Gara\bin\Debug\Gara.exe
+D:\New folder (2)\Gara\Gara\bin\Debug\Gara.pdb
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.csprojResolveAssemblyReference.cache
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.f1.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.f2.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.f3.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fDoiMK.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fHieuXe.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fLogin.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fMain.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fNV.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.FrmTienCong.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.frmNhapVTPT.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fThemVTPT.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fTK.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fTK_1.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.Max.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.PhieuThuTien.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.Properties.Resources.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.fXeInf.resources
+D:\New folder (2)\Gara\Gara\obj\Debug\Gara.csproj.GenerateResource.Cache
+C:\Users\Tao\Desktop\CD\SourceCode\Gara\Gara\bin\Debug\Gara.exe.config
+C:\Users\Tao\Desktop\CD\SourceCode\Gara\Gara\obj\Debug\Gara.exe
+C:\Users\Tao\Desktop\CD\SourceCode\Gara\Gara\obj\Debug\Gara.pdb

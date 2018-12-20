@@ -1,0 +1,286 @@
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\BaoCao.exe.config
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\BaoCao.exe
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\BaoCao.pdb
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.csprojAssemblyReference.cache
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.exe
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.pdb
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.frmBaoCaoDoanhSo.resources
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\EnvDTE.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\stdole.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.csproj.CopyComplete
+C:\Users\Ngọc Dũng\source\repos\Bao cao\BaoCao\BaoCao\obj\Debug\BaoCao.frmBC_VTPT.resources
+C:\BaoCao2\BaoCao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\BaoCao2\BaoCao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\BaoCao2\BaoCao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\BaoCao2\BaoCao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\BaoCao2\BaoCao\bin\Debug\BaoCao.exe.config
+C:\BaoCao2\BaoCao\bin\Debug\BaoCao.exe
+C:\BaoCao2\BaoCao\bin\Debug\BaoCao.pdb
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\BaoCao2\BaoCao\bin\Debug\EnvDTE.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\BaoCao2\BaoCao\bin\Debug\stdole.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\BaoCao2\BaoCao\bin\Debug\Microsoft.MSXML.dll
+C:\BaoCao2\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.csprojAssemblyReference.cache
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.frmBaoCaoDoanhSo.resources
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.frmBC_VTPT.resources
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.csproj.CopyComplete
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.exe
+C:\BaoCao2\BaoCao\obj\Debug\BaoCao.pdb
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\BaoCao.exe.config
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\BaoCao.exe
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\BaoCao.pdb
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\EnvDTE.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\stdole.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\Microsoft.MSXML.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.csprojAssemblyReference.cache
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.frmBaoCaoDoanhSo.resources
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.frmBC_VTPT.resources
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.csproj.CopyComplete
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.exe
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.pdb
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.frmNhapVTPT.resources
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.VTPT.resources
+C:\BaoCao2 - Copy\BaoCao\obj\Debug\BaoCao.frmPhieuSuaChua.resources
+C:\BC_16520252\BaoCao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\BC_16520252\BaoCao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\BC_16520252\BaoCao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\BC_16520252\BaoCao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\BC_16520252\BaoCao\bin\Debug\BaoCao.exe.config
+C:\BC_16520252\BaoCao\bin\Debug\BaoCao.exe
+C:\BC_16520252\BaoCao\bin\Debug\BaoCao.pdb
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\BC_16520252\BaoCao\bin\Debug\EnvDTE.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\BC_16520252\BaoCao\bin\Debug\stdole.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\BC_16520252\BaoCao\bin\Debug\Microsoft.MSXML.dll
+C:\BC_16520252\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.csprojAssemblyReference.cache
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.frmBaoCaoDoanhSo.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.frmBC_VTPT.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.frmNhapVTPT.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.frmPhieuSuaChua.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.Properties.Resources.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.VTPT.resources
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.csproj.GenerateResource.cache
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.csproj.CoreCompileInputs.cache
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.csproj.CopyComplete
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.exe
+C:\BC_16520252\BaoCao\obj\Debug\BaoCao.pdb
